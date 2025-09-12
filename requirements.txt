@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+ipykernel
+-e .
+
+# Note: The line "-e ." indicates that the current directory should be installed as a package in editable mode.

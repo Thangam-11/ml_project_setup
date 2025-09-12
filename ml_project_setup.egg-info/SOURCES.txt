@@ -1,0 +1,11 @@
+README.md
+setup.py
+ml_project_setup.egg-info/PKG-INFO
+ml_project_setup.egg-info/SOURCES.txt
+ml_project_setup.egg-info/dependency_links.txt
+ml_project_setup.egg-info/top_level.txt
+src/__init__.py
+src/data_cleaning.py
+src/data_ingestion.py
+src/model_evaluate.py
+src/train.py
